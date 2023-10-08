@@ -83,6 +83,9 @@ img:hover {
     border-style: solid;
 }
 
+.payCredit, .payCreditL {
+    display: none;
+}
 
 
 form {
